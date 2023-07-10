@@ -1,0 +1,42 @@
+
+.loginForm {
+    position:absolute;
+    width: 100%;
+    text-align: center;
+    height: 100vh;
+    box-sizing: border-box;
+    background: #262d33; 
+    color: #fff;
+    font-size: 20px;
+    padding-top: 300px;
+   
+  }
+
+.loginFormUsuario {
+    padding: 5px;
+    border-radius: 5px;
+    margin: 5px;
+    
+}
+.loginFormSenha {
+    padding: 5px;
+    border-radius: 5px;
+    margin-left: 8px;
+    
+}
+
+.loginFormBotao {
+    padding: 10px;
+    border-radius: 5px;
+    width: 100px;
+    margin-top: 15px;
+    margin-left: 80px;
+    text-align: center;
+    background: #40a548;
+}
+
+.container {
+    background-color: #f1f1f1;
+    padding: 20px;
+    margin-top: 20px;
+  }
