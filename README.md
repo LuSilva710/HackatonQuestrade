@@ -1,4 +1,5 @@
 <h1 align="center"><b>Hackaton Questrade 2023</b></h1>
+<h1 align="center"><img src="./appReact.png"></h1>
 <h1 >📚  Sobre</h1>
 <p> Projeto desenvolvido durante o Hackaton Questrade 2023</p>
 <br>
