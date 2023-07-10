@@ -26,7 +26,7 @@ Para o desenvolvimento da plataforma temos como:
 Ludmila Silva
 <p align="left">
   <a href="https://www.linkedin.com/in/ludmila-silva-s0097/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href="mailto:lud.caina@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="mailto:lud.carina@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
 
