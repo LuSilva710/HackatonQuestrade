@@ -1,8 +1,8 @@
 <h1 align="center"><b>Hackaton Questrade 2023</b></h1>
 <h1 align="center"><img src="./appReact.png"></h1>
 <h1 >📚  Sobre</h1>
-<p> Projeto desenvolvido durante o Hackaton Questrade 2023</p>
-<br>
+Projeto desenvolvido durante o Hackaton Questrade 2023 junto com Caio Costa (https://github.com/CaioCosta182).
+
 
 <h1 >🚀  Tecnologias utilizadas</h1>
 ✔️ ReactJS <br>
@@ -14,15 +14,19 @@
 
 <h1> 📝 Licença </h1><br>
 
-- Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE]() para mais detalhes.
-
+- Esse projeto está sob a licença MIT. 
 ---
 Copyright (c) 2023 <br>
-Feito com ♥ by @Lu Silva :wave:
+Feito com ♥ by @CaioCosta e  @LuSilva :wave:
 
 ---
-<h1> Contato </h1><br>
+<h1> Contato dos Desenvolvedores </h1><br>
 <p align="left">
   <a href="https://www.linkedin.com/in/ludmila-silva-s0097/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="mailto:lud.caina@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
+<p align="left">
+  <a href="[https://www.linkedin.com/in/](https://www.linkedin.com/in/caiocostadev/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="mailto:caiocosta182@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>
+
