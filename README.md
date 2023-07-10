@@ -21,8 +21,6 @@ Projeto desenvolvido durante o Hackaton Questrade 2023 junto com Caio Costa (htt
 ---
 <h1> ✒️ Autores </h1><br>
 
-Para o desenvolvimento da plataforma temos como:
-
 Ludmila Silva
 <p align="left">
   <a href="https://www.linkedin.com/in/ludmila-silva-s0097/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
