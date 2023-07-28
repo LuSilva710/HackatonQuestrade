@@ -1,7 +1,7 @@
-<h1 align="center"><b>Hackaton Questrade 2023</b></h1>
+<h1 align="center"><b>Hackathon Questrade 2023</b></h1>
 <h1 align="center"><img src="./appReact.png"></h1>
 <h1 >📚  Sobre</h1>
-Projeto desenvolvido durante o Hackaton Questrade 2023.
+Projeto desenvolvido durante o 1° Hackathon Questrade 2023.
 Nosso desafio consistia em desenvolver uma plataforma online, que permita aos usuários solicitar empréstimos e receber decisões instantâneas com base em sua pontuação de crédito.
 <br>
 
@@ -42,4 +42,4 @@ Caio César
 
 ---
 Copyright (c) 2023 <br>
-Feito com ♥ by @CaioCosta e  @LuSilva :wave:
+Feito com ♥ by @CaioCosta e  @LuSilva 
